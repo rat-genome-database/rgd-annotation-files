@@ -1,5 +1,5 @@
 # rgd-annotation-files
-GO annotation files in GAF, GPAD and GPI format
+GO annotation files in GAF format
 
 gene_association.rgd.gz
 
